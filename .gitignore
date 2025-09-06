@@ -1,5 +1,4 @@
 # Environment variables with sensitive API keys
-.env
 
 # Node modules
 node_modules/
@@ -32,7 +31,6 @@ jspm_packages/
 .yarn-integrity
 
 # IDE files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -53,7 +51,6 @@ dev-debug.log
 # Environment variables
 # Editor directories and files
 .idea
-.vscode
 *.suo
 *.ntvs*
 *.njsproj
@@ -64,3 +61,4 @@ dev-debug.log
 # Task files
 # tasks.json
 # tasks/ 
+config.bat
